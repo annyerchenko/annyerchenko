@@ -1,9 +1,8 @@
-# Hi there! I'm Hanna Yerchenko 👋
-
-### 🚀 QA Engineer | Manual & Aspiring Automation Specialist
+### QA Engineer | Manual & Aspiring Automation Specialist
 📍 Based in Germany
 
-[cite_start]I am a motivated QA Engineer with a strong background in ensuring the quality of digital products[cite: 3]. [cite_start]With experience in manual testing of complex web applications and agile workflows[cite: 14, 17], I am currently expanding my expertise into **Test Automation with Python and Playwright**.
+I am a motivated QA Engineer with a strong background in ensuring the quality of digital products
+With experience in manual testing of complex web applications and agile workflows, I am currently expanding my expertise into **Test Automation with Python and Playwright**.
 
 ---
 
@@ -24,13 +23,13 @@
 ---
 
 ### 👨‍💻 Professional Focus
-- [cite_start]🔍 **Expertise:** End-to-End, Regression, and Black-Box testing[cite: 16, 18].
+- 🔍 **Expertise:** End-to-End, Regression, and Black-Box testing.
 - ⚙️ **Current Learning:** Deep diving into **Python** and **Playwright** for automated web testing.
-- [cite_start]📊 **Background:** Experienced in analyzing technical requirements and managing defect lifecycles in Scrum/Kanban teams[cite: 17, 18].
+- 📊 **Background:** Experienced in analyzing technical requirements and managing defect lifecycles in Scrum/Kanban teams.
 - 🌐 **Languages:**
-  - [cite_start]**German:** Very Good (B2 level) [cite: 22, 30]
-  - [cite_start]**English:** Good (A2/B1 level) 
-  - [cite_start]**Ukrainian/Russian:** Native [cite: 29]
+  - **German:** Very Good (B2 level) 
+  - **English:** Good (A2/B1 level) 
+  - **Ukrainian/Russian:** Native
 
 ---
 

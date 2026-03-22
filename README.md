@@ -33,11 +33,6 @@ With experience in manual testing of complex web applications and agile workflow
 
 ---
 
-### 📊 GitHub Stats
-![Hanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=vibrant)
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-yerchenko-488030231/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annaercenko@gmail.com)
